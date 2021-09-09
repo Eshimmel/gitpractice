@@ -1,5 +1,5 @@
 # gitpractice
 
 ## Students:
-Ethan Shimmmel
-Tyler Siegmund
+- Ethan Shimmmel
+- Tyler Siegmund
