@@ -1,1 +1,4 @@
+# gitpractice
 
+## Students:
+Ethan Shimmmel
